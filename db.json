@@ -1,0 +1,484 @@
+{
+  "api": {
+    "slider": [
+      "./images/slider/slider-1.png",
+      "./images/slider/slider-2.png",
+      "./images/slider/slider-3.png",
+      "./images/slider/slider-4.png",
+      "./images/slider/slider-5.png",
+      "./images/slider/slider-6.png",
+      "./images/slider/slider-7.png",
+      "./images/slider/slider-8.png",
+      "./images/slider/slider-9.png"
+    ]
+  },
+  "story": [
+    {
+      "image": "./images/story/story-1.jpg",
+      "title": " هندزفری فلزی؟!!"
+    },
+    {
+      "image": "./images/story/story-2.png",
+      "title": " ماساژور تایوترونیکس"
+    },
+    {
+      "image": "./images/story/story-3.png",
+      "title": " لوکس بودن فقط یه اسم نیست"
+    },
+    {
+      "image": "./images/story/story-4.png",
+      "title": " کانسیلر با پیگمنت"
+    },
+    {
+      "image": "./images/story/story-5.png",
+      "title": " مطمين ترین تولید"
+    },
+    {
+      "image": "./images/story/story-6.png",
+      "title": " تلفن آسان"
+    },
+    {
+      "image": "./images/story/story-7.png",
+      "title": " دستکش دوپوش زمستانه"
+    },
+    {
+      "image": "./images/story/story-8.png",
+      "title": " جامته ای ۷۵ سوراخ"
+    },
+    {
+      "image": "./images/story/story-9.png",
+      "title": " گلیتر به این جذابی"
+    },
+    {
+      "image": "./images/story/story-10.png",
+      "title": " فیگور های ماینکرفت"
+    },
+    {
+      "image": "./images/story/story-11.png",
+      "title": " درست میخ کوبی کن"
+    },
+    {
+      "image": "./images/story/story-12.png",
+      "title": " ارگانایز کاربردی"
+    },
+    {
+      "image": "./images/story/story-13.png",
+      "title": "  پد پنبه ای یونی لد"
+    },
+    {
+      "image": "./images/story/story-14.png",
+      "title": "  خرید طلا از دیجی کالا"
+    },
+    {
+      "image": "./images/story/story-15.png",
+      "title": "  هیجان با تفنگ"
+    }
+  ],
+  "slider": [
+    "./images/slider/slider-1.png",
+    "./images/slider/slider-2.png",
+    "./images/slider/slider-3.png",
+    "./images/slider/slider-4.png",
+    "./images/slider/slider-5.png",
+    "./images/slider/slider-6.png",
+    "./images/slider/slider-7.png",
+    "./images/slider/slider-8.png",
+    "./images/slider/slider-9.png"
+  ],
+  "wonderfull": [
+    {
+      "image": "./images/wonderfull/image-1.png",
+      "title": "جوراب ساق بلند مردانه سیرداش مدل 302 بسته 3 عددی",
+      "price-real": "416700",
+      "price-discount": "70%",
+      "real": "1389000"
+    },
+    {
+      "image": "./images/wonderfull/image-2.png",
+      "title": "لپ تاپ 16 اینچی اچ‌ پی مدل OmniBook 5 AI 16-AF1017WM-Core Ultra 7 255U-16GB LPDDR5 4800MHz-1TB SSD-Touch-Backlit-W",
+      "price-real": "۱۰۸۸۹۹۰۰۰",
+      "price-discount": "20%",
+      "real": "۱۳۶۹۰۵۵۰۰"
+    },
+    {
+      "image": "./images/wonderfull/image-3.png",
+      "title": "لپ تاپ 15.6 اینچی اچ‌پی مدل Victus 15 fa2013dx-i5 13420H-8GB DDR4 3200MHz-512GB SSD-RTX3050 6GB-W",
+      "price-real": "۸۷۸۹۹۰۰۰",
+      "price-discount": "16%",
+      "real": "۱۰۴۲۰۵۳۰۰"
+    },
+    {
+      "image": "./images/wonderfull/image-4.png",
+      "title": "لپ تاپ 15.6 اینچی ایسر مدل Aspire 3 A325-45-N15JPJ-Celeron N4500-8GB DDR4 3200MHz-256GB SSD-IPS",
+      "price-real": "۳۶۸۹۹۰۰۰",
+      "price-discount": "14%",
+      "real": "۴۳۱۱۵۶۰۰"
+    },
+    {
+      "image": "./images/wonderfull/image-5.png",
+      "title": ">لپ تاپ 14 اینچی لنوو مدل V14 G5 IRL-Core i3 1315U-8GB DDR5 5200MHz-256GB SSD-IPS- کاستوم شده",
+      "price-real": "۵۰۴۹۹۰۰۰",
+      "price-discount": "12%",
+      "real": "۵۷۵۴۴۴۰۰"
+    },
+    {
+      "image": "./images/wonderfull/image-6.png",
+      "title": "بیده و مخزن گرین لاین مدل GNPORTRBDTBK مناسب برای تمام خودروها",
+      "price-real": "۴۷۹۰۰۰۰",
+      "price-discount": "29%",
+      "real": "۶۷۰۰۰۰۰"
+    },
+    {
+      "image": "./images/wonderfull/image-7.png",
+      "title": "یخچال فریزر خودرو گرین لاین مدل GFC-35 ظرفیت 35 لیتر",
+      "price-real": "۳۳۸۰۰۰۰۰",
+      "price-discount": "35%",
+      "real": "۴۵۱۴۱۶۰۰"
+    },
+    {
+      "image": "./images/wonderfull/image-8.png",
+      "title": "پاوربانک و جامپ استارتر گرین لاین مدل Flex Power GNFLXJUMP10GY ظرفیت ۱۰۰۰۰ میلی آمپر ساعت",
+      "price-real": "۶۳۹۰۰۰۰",
+      "price-discount": "20%",
+      "real": "۸۰۰۰۰۰۰"
+    }
+  ],
+  "gallery": [
+    "./images/gallery/image-1.png",
+    "./images/gallery/image-2.png",
+    "./images/gallery/image-3.png",
+    "./images/gallery/image-4.png"
+  ],
+  "amazing": [
+    "./images/amazing/sabad.png",
+    "./images/amazing/sabad-incredible-offer.png",
+    "./images/amazing/img-1.png",
+    "./images/amazing/img-2.png",
+    "./images/amazing/img-3.png",
+    "./images/amazing/img-4.png",
+    "./images/amazing/img-5.png",
+    "./images/amazing/img-6.png",
+    "./images/amazing/arrow.svg"
+  ],
+  "gallery-2": [
+    "./images/gallery/image-5.png",
+    "./images/gallery/image-6.png",
+    "./images/gallery/image-7.png",
+    "./images/gallery/image-8.png"
+  ],
+  "floor": [
+    { "image": "./images/floor/image-1.png", "title": "موبایل" },
+    { "image": "./images/floor/image-2.png", "title": "لپ تاپ" },
+    { "image": "./images/floor/image-3.png", "title": "کالای دیجیتال" },
+    { "image": "./images/floor/image-4.png", "title": "خانه و آشپزخانه" },
+    { "image": "./images/floor/image-5.png", "title": "لوازم خانگی برقی" },
+    { "image": "./images/floor/image-6.png", "title": "آٰرایشی بهداشتی" },
+    { "image": "./images/floor/image-7.png", "title": "مد و پوشاک" },
+    { "image": "./images/floor/image-8.png", "title": "طلا و نقره" },
+    {
+      "image": "./images/floor/image-9.png",
+      "title": "خودرو و موتورسیکلت"
+    },
+    { "image": "./images/floor/image-10.png", "title": "سلامت و پزشکی" },
+    {
+      "image": "./images/floor/image-11.png",
+      "title": "ابزرآلات و تجهیزات"
+    },
+    { "image": "./images/floor/image-12.png", "title": "کتاب و هنر" },
+    { "image": "./images/floor/image-13.png", "title": "ورزش و سفر" },
+    {
+      "image": "./images/floor/image-14.png",
+      "title": "کارت‌هدیه و گیفت کارت"
+    },
+    { "image": "./images/floor/image-15.png", "title": "موبایل" },
+    {
+      "image": "./images/floor/image-16.png",
+      "title": "اسباب‌بازی کودک و نوزاد"
+    },
+    {
+      "image": "./images/floor/image-17.png",
+      "title": "محصولات بومی و محلی"
+    },
+    { "image": "./images/floor/image-18.png", "title": "پت شاپ" }
+  ],
+  "floor-tag": ["./images/floor-2/image-1.png", "./images/floor-2/image-2.png"],
+  "brands": [
+    "./images/brands/image-1.png",
+    "./images/brands/image-2.png",
+    "./images/brands/image-3.png",
+    "./images/brands/image-4.png",
+    "./images/brands/image-5.png",
+    "./images/brands/image-6.png",
+    "./images/brands/image-7.png",
+    "./images/brands/image-8.png",
+    "./images/brands/image-9.png",
+    "./images/brands/image-10.png",
+    "./images/brands/image-11.png"
+  ],
+  "floor-2": ["./images/floor-2/image-3.png", "./images/floor-2/image-4.png"],
+  "device": [
+    {
+      "title": "جوراب مردانه",
+      "image1": "./images/device/image-1.png",
+      "image2": "./images/device/image-2.png",
+      "image3": "./images/device/image-3.png",
+      "image4": "./images/device/image-4.png"
+    },
+    {
+      "title": "لپ تاپ",
+      "image1": "./images/device/image-5.png",
+      "image2": "./images/device/image-6.png",
+      "image3": "./images/device/image-7.png",
+      "image4": "./images/device/image-8.png"
+    },
+    {
+      "title": "جاسوییجی",
+      "image1": "./images/device/image-9.png",
+      "image2": "./images/device/image-10.png",
+      "image3": "./images/device/image-11.png",
+      "image4": "./images/device/image-12.png"
+    },
+    {
+      "title": "بازی آموزشی",
+      "image1": "./images/device/image-13.png",
+      "image2": "./images/device/image-14.png",
+      "image3": "./images/device/image-15.png",
+      "image4": "./images/device/image-16.png"
+    }
+  ],
+  "best-seller": [
+    {
+      "image": "./images/best-seller/image-1.png",
+      "title": "کارت هدیه الکترونیکی دیجی کالا طرح طلای الکترونیک"
+    },
+    {
+      "image": "./images/best-seller/image-2.png",
+      "title": "خامه هراز - 200 میلی لیتر "
+    },
+    {
+      "image": "./images/best-seller/image-3.png",
+      "title": "کنسرو ماهی تون در روغن گیاهی طبیعت - 180 گرم بسته 4 عددی"
+    },
+    {
+      "image": "./images/best-seller/image-4.png",
+      "title": ""
+    },
+    {
+      "image": "./images/best-seller/image-5.png",
+      "title": " پودر لباسشویی دستی گلرنگ - 500 گرم "
+    },
+    {
+      "image": "./images/best-seller/image-6.png",
+      "title": "لامپ ال ای دی 12 وات بوم لایتینگ مدل حبابی پایه E27 بسته 2 عددی "
+    },
+    {
+      "image": "./images/best-seller/image-7.png",
+      "title": " رب گوجه فرنگی روژین مقدار 800 گرم "
+    },
+    {
+      "image": "./images/best-seller/image-8.png",
+      "title": "اسپاگتی قطر 1.2 مانا مقدار 700 گرم"
+    },
+    {
+      "image": "./images/best-seller/image-9.png",
+      "title": "کپسول مگنیفورت هولیستیکا بسته 32 عددی"
+    },
+    {
+      "image": "./images/best-seller/image-10.png",
+      "title": "پودر ماشینی پرسیل Deep Clean مدل یونیورسال وزن 500 گرم"
+    },
+    {
+      "image": "./images/best-seller/image-11.png",
+      "title": "هدفون بلوتوثی انکر مدل SoundCore R50i A3949"
+    },
+    {
+      "image": "./images/best-seller/image-12.png",
+      "title": "تخم مرغ Fresh بسته 20 عددی گرید A"
+    },
+    {
+      "image": "./images/best-seller/image-13.png",
+      "title": ">قرص منیزیم پلاس آیزن و ب6  بسته60 عددی"
+    },
+    {
+      "image": "./images/best-seller/image-14.png",
+      "title": ">کره غیر لاکتیکی بدون نمک پگاه -100 گرم "
+    },
+    {
+      "image": "./images/best-seller/image-15.png",
+      "title": "قرص زینک پلاس یوروویتال 15 میلی گرم بسته 60 عددی"
+    },
+    {
+      "image": "./images/best-seller/image-16.png",
+      "title": ">قرص ویتامین D3-1000 واحدی  بسته 60 عددی"
+    },
+    {
+      "image": "./images/best-seller/image-17.png",
+      "title": "کره پاستوریزه پاک مقدار 50 گرم"
+    },
+    {
+      "image": "./images/best-seller/image-18.png",
+      "title": "پودر ماشین لباسشویی اکتیو مدل Poly Wash مقدار 500 گرم"
+    }
+  ],
+  "devicee": [
+    {
+      "title": "تی شرت مردانه",
+      "image1": "./images/device/img-1.png",
+      "image2": "./images/device/img-2.png",
+      "image3": "./images/device/img-3.png",
+      "image4": "./images/device/img-4.png"
+    },
+    {
+      "title": "جوراب زنانه",
+      "image1": "./images/device/img-5.png",
+      "image2": "./images/device/img-6.png",
+      "image3": "./images/device/img-7.png",
+      "image4": "./images/device/img-8.png"
+    },
+    {
+      "title": "پایه نگهدارنده گوشی و تبلت",
+      "image1": "./images/device/img-9.png",
+      "image2": "./images/device/img-10.png",
+      "image3": "./images/device/img-11.png",
+      "image4": "./images/device/img-12.png"
+    },
+    {
+      "title": "واکس، پولیش و تمیزکننده خودرو",
+      "image1": "./images/device/img-13.png",
+      "image2": "./images/device/img-14.png",
+      "image3": "./images/device/img-15.png",
+      "image4": "./images/device/img-16.png"
+    }
+  ],
+  "task": {
+    "image": "./images/task/image-1.png"
+  },
+  "chosen": [
+    {
+      "image": "./images/chosen/image-1.png",
+      "discount": "73%",
+      "price": "۴۸۶۰۰۰",
+      "worth": "۱۸۰۰۰۰۰"
+    },
+    {
+      "image": "./images/chosen/image-2.png",
+      "discount": "73%",
+      "price": "۴۸۶۰۰۰",
+      "worth": "۱۸۰۰۰۰۰"
+    },
+    {
+      "image": "./images/chosen/image-3.png",
+      "discount": "73%",
+      "price": "۴۸۶۰۰۰",
+      "worth": "۱۸۰۰۰۰۰"
+    },
+    {
+      "image": "./images/chosen/image-4.png",
+      "discount": "73%",
+      "price": "۴۸۶۰۰۰",
+      "worth": "۱۸۰۰۰۰۰"
+    },
+    {
+      "image": "./images/chosen/image-5.png",
+      "discount": "13%",
+      "price": "103500000",
+      "worth": "119000000"
+    },
+    {
+      "image": "./images/chosen/image-6.png",
+      "discount": "13%",
+      "price": "185000000",
+      "worth": "212000000"
+    },
+    {
+      "image": "./images/chosen/image-7.png",
+      "discount": "12%",
+      "price": "164800000",
+      "worth": "188000000"
+    },
+    {
+      "image": "./images/chosen/image-8.png",
+      "discount": "12%",
+      "price": "164900000",
+      "worth": "167000000"
+    },
+    {
+      "image": "./images/chosen/image-9.png",
+      "discount": "89%",
+      "price": "398000",
+      "worth": "3500000"
+    },
+    {
+      "image": "./images/chosen/image-10.png",
+      "discount": "12%",
+      "price": "398000",
+      "worth": "3500000"
+    },
+    {
+      "image": "./images/chosen/image-11.png",
+      "discount": "89%",
+      "price": "740500",
+      "worth": "6500000"
+    },
+    {
+      "image": "./images/chosen/image-12.png",
+      "discount": "88%",
+      "price": "447000",
+      "worth": "3650000"
+    },
+    {
+      "image": "./images/chosen/image-13.png",
+      "discount": "55%",
+      "price": "315000",
+      "worth": "700000"
+    },
+    {
+      "image": "./images/chosen/image-14.png",
+      "discount": "55%",
+      "price": "315000",
+      "worth": "700000"
+    },
+    {
+      "image": "./images/chosen/image-15.png",
+      "discount": "55%",
+      "price": "315000",
+      "worth": "700000"
+    },
+    {
+      "image": "./images/chosen/image-16.png",
+      "discount": "89%",
+      "price": "315000",
+      "worth": "700000"
+    },
+    {
+      "image": "./images/chosen/image-17.png",
+      "discount": "85%",
+      "price": "615000",
+      "worth": "4200000"
+    },
+    {
+      "image": "./images/chosen/image-18.png",
+      "discount": "68%",
+      "price": "448000",
+      "worth": "1400000"
+    }
+  ],
+  "review": [
+    {
+      "image": "./images/review/image-1.png",
+      "text": "سه مهندس ایرانی شاغل در گوگل به سرقت اطلاعات متهم شدند"
+    },
+    {
+      "image": "./images/review/image-2.png",
+      "text": " بهترین مدل هود مخفی داتیس؛ کدام انتخاب ارزش خرید دارد؟"
+    },
+    {
+      "image": "./images/review/image-3.png",
+      "text": "همه‌چیز درباره فیلم «ادیسه» نولان؛ از قصه و بازیگران تا تاریخ اکران"
+    },
+    {
+      "image": "images/review/image-4.png",
+      "text": "آخر هفته فیلم و سریال چی ببینیم؟ (هفته چهارم بهمن ۱۴۰۴)"
+    }
+  ]
+}
